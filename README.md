@@ -1,2 +1,2 @@
 # obfucator
-  script designed to encrypt files to try and bypass detections
+  python obf.py -i script_name.py -o script_output.py
