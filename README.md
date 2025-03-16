@@ -1,2 +1,2 @@
-# obfucator
-  python obf.py -i script_name.py -o script_output.py
+# USAGE
+  'python obf.py -i script_name.py -o script_output.py'
